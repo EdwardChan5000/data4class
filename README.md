@@ -1,5 +1,5 @@
-# data4classification documentation
+# data4class documentation
 
-* `train.tsv` for training dataset
-* `dev.tsv` for evaluating the model
-* `test` for testing
+* `classification` file folder for classification class
+* `cluster` file folder for cluster class
+* detail in README.md file
